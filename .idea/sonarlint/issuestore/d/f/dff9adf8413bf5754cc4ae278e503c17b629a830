@@ -1,8 +1,3 @@
 
-0
-java:S1220""Move this file to a named package.
-<
-java:S1452Y"&Remove usage of generic wildcard type.(ª©Êú
-@	java:S106_"+Replace this use of System.out by a logger.(üÙÆÒ
-E
-java:S1144]"*Remove this unused private "print" method.(ëØ÷øùÿÿÿÿ
+V
+java:S1220""Move this file to a named package.J$0a8f800e-bc34-46c2-a35e-91eb0c4a33fc

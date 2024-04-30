@@ -1,12 +1,12 @@
-package Planes;
+package planes;
 
 import models.ClassificationLevel;
 
-public class experimentalPlane extends Plane {
+public class ExperimentalPlane extends Plane {
 
   private final ClassificationLevel classificationLevel;
 
-  public experimentalPlane(
+  public ExperimentalPlane(
       String model,
       int maxSpeed,
       int maxFlightDistance,
